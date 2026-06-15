@@ -1,0 +1,11 @@
+EmployeeID,Department,Salary,Attendance,YearsExperience,Attrition
+101,IT,55000,95,3,No
+102,HR,45000,88,2,Yes
+103,Finance,60000,92,5,No
+104,IT,70000,85,6,No
+105,Sales,40000,80,1,Yes
+106,Finance,75000,97,8,No
+107,HR,48000,90,3,No
+108,Sales,42000,75,2,Yes
+109,IT,65000,94,5,No
+110,Finance,80000,98,9,No
